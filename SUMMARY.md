@@ -7,9 +7,9 @@
   * [系统运行环境](xi-tong-fang-an/xi-tong-yun-xing-huan-jing.md)
   * [系统功能模块](xi-tong-fang-an/xi-tong-gong-neng-mo-kuai.md)
   * [方案设计](xi-tong-fang-an/fang-an-she-ji.md)
-    * 硬件系统
-    * 网络系统
-    * 软件系统
+    * [硬件系统](xi-tong-fang-an/fang-an-she-ji/ying-jian-xi-tong.md)
+    * [网络系统](xi-tong-fang-an/fang-an-she-ji/wang-luo-xi-tong.md)
+    * [软件系统](xi-tong-fang-an/fang-an-she-ji/ruan-jian-xi-tong.md)
   * [系统总体设计图](xi-tong-fang-an/xi-tong-zong-ti-she-ji-tu.md)
 * [模块](mo-kuai.md)
 * 技术方案
