@@ -17,7 +17,7 @@
   * [中控模块](ji-zhu-fang-an/zhong-kong-mo-kuai.md)
   * [通信同步模块](ji-zhu-fang-an/tong-xin-tong-bu-mo-kuai.md)
   * [设备处理模块](ji-zhu-fang-an/she-bei-chu-li-mo-kuai.md)
-* 技术实现
+* [技术实现](ji-zhu-shi-xian.md)
 * 结果分析
 * 总结
 
