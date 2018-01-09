@@ -12,7 +12,11 @@
     * [软件系统](xi-tong-fang-an/fang-an-she-ji/ruan-jian-xi-tong.md)
   * [系统总体设计图](xi-tong-fang-an/xi-tong-zong-ti-she-ji-tu.md)
 * [模块](mo-kuai.md)
-* 技术方案
+* [技术方案](ji-zhu-fang-an.md)
+  * [概述](ji-zhu-fang-an/gai-shu.md)
+  * [中控模块](ji-zhu-fang-an/zhong-kong-mo-kuai.md)
+  * [通信同步模块](ji-zhu-fang-an/tong-xin-tong-bu-mo-kuai.md)
+  * [设备处理模块](ji-zhu-fang-an/she-bei-chu-li-mo-kuai.md)
 * 技术实现
 * 结果分析
 * 总结
